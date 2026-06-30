@@ -1,18 +1,18 @@
-# Gold & Foreign Exchange Rates Dashboard
+# Gold & Bank Reserves Over the Year Dashboard
 
 ## Overview
 
-This project is an interactive Microsoft Excel dashboard that analyzes historical **Gold Prices** and **Foreign Exchange (FX) Rates**. The dashboard transforms raw financial data into meaningful insights through dynamic visualizations and key performance indicators.
-
-The objective was to demonstrate practical data analysis and dashboard design skills using Excel.
+This project is an interactive Microsoft Excel dashboard that analyzes historical **Gold Reserves** and **Bank Reserves**. The dashboard transforms raw financial data into meaningful insights through dynamic visualizations and key performance indicators.
 
 ---
+## Dashboard Preview
+<img width="1031" height="381" alt="dashboard" src="https://github.com/user-attachments/assets/19b997e5-4ede-4013-86a9-72d0cf7ea394" />
 
 ## Dataset
 
-- Historical Gold Price data
-- Historical Foreign Exchange Rate data
-- Thousands of observations analyzed across multiple dates and currencies
+- Historical Gold Reserves Data
+- Historical SBP & Bank Reserves data
+- Thousands of observations analyzed across multiple dates
 - Cleaned, structured, and prepared for dashboard reporting
 
 ---
@@ -45,7 +45,7 @@ The objective was to demonstrate practical data analysis and dashboard design sk
 
 ## Project Outcome
 
-This dashboard provides an intuitive way to explore trends in gold prices and exchange rates, enabling users to quickly identify market movements through interactive reporting and visual analytics.
+This dashboard provides an intuitive way to explore trends, enabling users to quickly identify market movements through interactive reporting and visual analytics.
 
 
 
