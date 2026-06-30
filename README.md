@@ -49,6 +49,3 @@ This dashboard provides an intuitive way to explore trends in gold prices and ex
 
 
 
-BS Accounting & Finance — NUST
-
-GitHub: https://github.com/mtayyablatif
